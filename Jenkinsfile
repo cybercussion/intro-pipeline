@@ -41,7 +41,7 @@ pipeline {
   }
   post {
     aborted {
-      echo 'Why didn\'t you push my button?'
+      echo 'Why didn\'t you push my button?!?!'
 
     }
 
